@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="křečík lupič.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.5322671"
+     inkscape:cx="61.67332"
+     inkscape:cy="196.76726"
+     inkscape:window-width="1920"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="X"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="X"
+       markerWidth="6.7071066"
+       markerHeight="6.7071066"
+       viewBox="0 0 6.7071068 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M -3,3 3,-3 M 3,3 -3,-3"
+         id="path12054" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stop-color:#000000;stroke-opacity:1;stroke-dasharray:0, 5.5;stroke-dashoffset:0;stroke-linejoin:bevel;stroke-linecap:butt;paint-order:normal;marker-mid:url(#X);opacity:1"
+       id="rect353"
+       width="74.25"
+       height="105"
+       x="0"
+       y="5.5102441e-07"
+       inkscape:tile-cx="37.125001"
+       inkscape:tile-cy="52.500002"
+       inkscape:tile-w="78.492643"
+       inkscape:tile-h="109.24264"
+       inkscape:tile-x0="-2.1213204"
+       inkscape:tile-y0="-2.1213199" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect353"
+       xlink:href="#rect353"
+       transform="translate(0,105)"
+       id="use5801" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect353"
+       xlink:href="#rect353"
+       transform="translate(74.25)"
+       id="use5803" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect353"
+       xlink:href="#rect353"
+       transform="translate(74.25,105)"
+       id="use5805" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect353"
+       xlink:href="#rect353"
+       transform="translate(148.5)"
+       id="use5807" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect353"
+       xlink:href="#rect353"
+       transform="translate(148.5,105)"
+       id="use5809" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect353"
+       xlink:href="#rect353"
+       transform="translate(222.75)"
+       id="use5811" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect353"
+       xlink:href="#rect353"
+       transform="translate(222.75,105)"
+       id="use5813" />
+  </g>
+</svg>

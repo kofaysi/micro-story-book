@@ -1,0 +1,83 @@
+Křečík lupič
+Hra pro Emmu, Agnes a Dana
+
+Fáze 0: Vytvoř si svého hrdinu
+Vyber si jméno a přemýšlej, jakým křečkem jsi. Jsi osamělý a hladový lupič, který pracuje sám, nebo v týmu?
+
+Jaký máš zvláštní talent?
+
+    Kapesní krádeže
+    Vymlouvání se
+    Šplhání po jakékoli zdi
+    Pečení dezertů
+    Kouzelnické triky
+    Instalatérství
+
+Jaký je tvůj charakteristický vzhled?
+
+    Velký knír
+    Vlnící se plášť
+    Šátek na hlavě
+    Sluneční brýle
+    Kravata / motýlek
+    Šperk
+
+Fáze 1: Plánování akce
+Nad malým kulatým stolem s nepořádkem na papírech bliká jedna žárovka. Je čas naplánovat nejnovější úkol.
+
+Co se chystáš ukrást?
+
+    Lesklý drahokam
+    Slavný kus odpadu
+    Tajné dokumenty
+    Oceněné rodinné dědiství
+    Čerstvě upečený koláč
+    Plyšovou hračku
+
+Jaké nástroje potřebuješ?
+
+    Výbušniny
+    Speciální rukavice
+    Babiččin tajný recept
+    Zidli na kolečkách
+    Paruku z pravých vlasů
+    Tisíc kuličkových ložisek
+
+Kde se loupež uskuteční?
+
+    Bankovní trezor
+    Cirkus
+    Rodinný dom
+    Jedoucí vlak
+    Obchodní dům
+    Kemp
+
+Fáze 2: Uprostřed loupeže
+Náhlý střih do středu akce. Loupež probíhá. Vše probíhá dle plánu?
+
+Na co jsi zapomněl?
+
+    Svačinu
+    Co jsi měl ukrást
+    Komplice v akci
+
+    Únikového řidiče
+    Své jméno
+
+Měl jsi úspěch?
+
+    Nepochybně
+    Pravděpodobně
+    Podle znamení ano
+    Výhledy nejsou růžové
+    Velmi pochybné
+    Nerad bych to rozváděl
+
+Jaký je tvůj únikový plán?
+
+    Autíčko klauna
+    Prolézt ventilací
+    Nechat se vynést s odpadky
+    Vyjít hlavním vchodem
+    Propracované maskování
+    ...únikový plán?
