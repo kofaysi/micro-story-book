@@ -1,1 +1,1 @@
-# k-e-k-story-book
+# krecik-story-book
