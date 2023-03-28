@@ -1,0 +1,103 @@
+Éhes höri
+Emma, Agnes és Dani számára
+
+fázis 0: Készítsd el az éhes hősödet
+Válassz egy nevet és gondolkodj el, milyen hörcsög vagy te.
+
+
+Milyen különleges tehetséged van?
+
+ügyes zsebtolvaj
+kifogások keresése
+mászás bármilyen falon
+édességek sütése
+barkácsolás
+bűvész trükkök
+
+
+Milyen jellemző megjelenésed van?
+
+nagy bajusz
+lengő köpeny
+fejkendő
+napszemüveg
+nyakkendő / csokornyakkendő
+felemás zokni
+
+
+fázis 1: Akcióterv
+Egy kis kerek asztalon tele gyűrött papírokkal halványan világít egy izzó. Itt az ideje, hogy megtervezd a következő rablást.
+
+
+Mire fáj a fogad?
+
+csokoládétortára
+fagyira
+friss zöldségre
+pattogatott kukoricára
+magokra
+bármit, amit találok - nagyon éhes vagyok
+
+
+Hol fogod keresni az ételt?
+
+a hűtőben
+a pincében
+az ágyaknál a gyerekszobába
+a szemetesben
+a konyhaasztal alatt
+a bevásárló táskában
+
+
+Mikor indulsz?
+
+hajnal előtt
+sötétedés után
+mikor mindenki elment otthonról
+szieszta után
+a legnagyobb zajban
+azonnal
+
+
+Milyen járművet használsz fel?
+
+papír repülőt
+repülő zsebkendőt
+elemes játékvonatot
+rugós cipőket
+origami sárkányt
+semmit, hiszen van láthatatlan köpenyem
+
+
+fázis 2: Az események forgatagában
+Hirtelen váltás az akció közepére. A fosztogatás és a keresés teljes erőbedobással folyik. Minden a terv szerint halad?
+
+
+Mit felejtettél el?
+
+enni
+mit kerestem
+becsukni a hűtőt
+eltakarítani a nyomokat
+többet venni a készletbe
+hogy hívnak
+
+
+Mi a menekülési terved?
+
+kutyaszemeket vágok
+ráhárítani másra
+elbújni
+iszkolás
+vesztegetési ajánlat
+..menekülési terv?
+
+írta Žroutík (2023)
+
+Szabadon a Hörcsög avagy Egyszer oda, aztán vissza című mű alapján
+
+Forráskód:
+https://github.com/kofaysi/hamster-story-book
+
+Köszönet:
+Trash Bandits játék inspirációja https://tallywinkle.itch.io/trash-bandits

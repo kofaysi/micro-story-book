@@ -11,8 +11,8 @@ Jaký máš zvláštní talent?
 vymlouvání se
 šplhání po jakékoli zdi
 pečení sladkých dobrot
-kouzelnické triky
 kutil
+kouzelnické triky
 
 
 Jaký je tvůj charakteristický vzhled?
@@ -29,26 +29,6 @@ Fáze 1: Plánování akce
 Nad malým kulatým stolem plného zmuchlaných papírů bliká slabá žárovka. Je čas naplánovat další lup.
 
 
-Jaký přemísťovací prostředek použiješ?
-
-papírové letadlo
-létající kapesník
-mašinku na baterie
-nic, mám přeci neviditelný plášť
-boty pružinkami
-origami draka
-
-
-Kde budeš hledat jídlo?
-
-v lednici
-ve sklepě
-u postele v dětském pokoji
-v odpadkovém koši
-pod kuchyňským stolem
-v nákupní tašce
-
-
 Na co máš chuť?
 
 na čokoládový dort
@@ -59,8 +39,38 @@ na semínka
 zbodnu, co najdu -- mám velký hlad
 
 
+Kde budeš hledat jídlo?
+
+v lednici
+ve sklepě
+u postelí v dětském pokoji
+v odpadkovém koši
+pod kuchyňským stolem
+v nákupní tašce
+
+
+Kdy vyrazíš?
+
+před svítáním
+po setmění
+až odejdou všichni z domu
+po šlofíku
+v největším hluku
+hned
+
+
+Jaké přemísťovadlo použiješ?
+
+papírové letadlo
+létající kapesník
+mašinku na baterie
+boty s pružinkami
+origami draka
+nic, mám přeci neviditelný plášť
+
+
 Fáze 2: Ve víru dění
-Náhlý střih do středu akce. Plenění a hledání je v plném proudu. Vše probíhá dle plánu?0
+Náhlý střih do středu akce. Plenění a hledání je v plném proudu. Vše probíhá dle plánu?
 
 
 Na co jsi zapomněl?
@@ -76,8 +86,19 @@ jak se jmenuji
 Jaký máš únikový plán?
 
 psí oči
-svalit to na jedno z dětí
+svalit to na jiného
 schovat se
 úprk
 nabídnout úplatek
 ..únikový plán?
+
+
+by Žroutík (2023)
+
+Volně na motivy  Křečík aneb cesta tam a zase zpátky
+
+Source code:
+https://github.com/kofaysi/krecik-story-book
+
+Credits:
+inspirováno hříčkou  Trash Bandits https://tallywinkle.itch.io/trash-bandits
