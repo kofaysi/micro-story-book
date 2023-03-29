@@ -1,109 +1,112 @@
 Hladový křečík
-Hra pro Emmu, Agnes a Dana
+pro Emmu, Agnes a Dana
 
-Fáze 0: Vytvoř si svého hladového hrdinu
+Vytvoř si svého hladového hrdinu
+
 Vyber si jméno a přemýšlej, jakým křečíkem jsi.
 
 
 Jaký máš zvláštní talent?
 
-šikovný kapsář
-vymlouvání se
-šplhání po jakékoli zdi
-pečení sladkých dobrot
-kutil
-kouzelnické triky
+⚀ šikovný kapsář
+⚁ vymlouvání se
+⚂ šplhání po jakékoli zdi
+⚃ pečení sladkých dobrot
+⚄ kutil
+⚅ kouzelnické triky
 
 
 Jaký je tvůj charakteristický vzhled?
 
-velký knír
-vlnící se plášť
-šátek na hlavě
-sluneční brýle
-kravata / motýlek
-každá ponožka jiná
+⚀ velký knír
+⚁ vlnící se plášť
+⚂ šátek na hlavě
+⚃ sluneční brýle
+⚄ kravata / motýlek
+⚅ každá ponožka jiná
 
 
-Fáze 1: Plánování akce
+Plánování akce
+
 Nad malým kulatým stolem plného zmuchlaných papírů bliká slabá žárovka. Je čas naplánovat další lup.
 
 
 Na co máš chuť?
 
-na čokoládový dort
-na zmrzlinu
-na čerstvou zeleninu
-na popcorn
-na semínka
-zbodnu, co najdu -- mám velký hlad
+⚀ na čokoládový dort
+⚁ na zmrzlinu
+⚂ na čerstvou zeleninu
+⚃ na popcorn
+⚄ na semínka
+⚅ zbodnu, co najdu – mám velký hlad
 
 
 Kde budeš hledat jídlo?
 
-v lednici
-ve sklepě
-u postelí v dětském pokoji
-v odpadkovém koši
-pod kuchyňským stolem
-v nákupní tašce
+⚀ v lednici
+⚁ ve sklepě
+⚂ u postelí v dětském pokoji
+⚃ v odpadkovém koši
+⚄ pod kuchyňským stolem
+⚅ v nákupní tašce
 
 
 Kdy vyrazíš?
 
-před svítáním
-po setmění
-až odejdou všichni z domu
-po šlofíku
-v největším hluku
-hned
+⚀ před svítáním
+⚁ po setmění
+⚂ až odejdou všichni z domu
+⚃ po šlofíku
+⚄ v největším hluku
+⚅ hned
 
 
 Jaké přemísťovadlo použiješ?
 
-papírové letadlo
-létající kapesník
-mašinku na baterie
-boty s pružinkami
-origami draka
-nic, mám přeci neviditelný plášť
+⚀ papírové letadlo
+⚁ létající kapesník
+⚂ mašinku na baterie
+⚃ boty s pružinkami
+⚄ origami draka
+⚅ nic, mám přeci neviditelný plášť
 
 
-Fáze 2: Ve víru dění
-Náhlý střih do středu akce. Plenění a hledání je v plném proudu. Vše probíhá dle plánu?
+Ve víru dění
+
+Náhlý střih do středu akce. Plenění a hledání je v plném proudu. Probíhá vše dle plánu?
 
 
 Na co jsi zapomněl?
 
-najíst se
-co jsem hledal
-zavřít lednici
-zamést stopy
-vzít si víc do zásoby
-jak se jmenuji
+⚀ najíst se
+⚁ co jsem hledal
+⚂ batoh
+⚃ zamést stopy
+⚄ vzít si víc do zásoby
+⚅ jak se jmenuji
 
 
 Slavíš úspěch?
 
-bezpochyby
-s největší pravděpodobností
-znamení ukazují, že ano
-vyhlídky nejsou dobré
-pochybuji
-nepočítej s tím
+⚀ bezpochyby
+⚁ s největší pravděpodobností
+⚂ znamení ukazují, že ano
+⚃ vyhlídky nejsou dobré
+⚄ pochybuji
+⚅ nepočítej s tím
 
 
 Jaký máš únikový plán?
 
-psí oči
-svalit to na jiného
-schovat se
-úprk
-nabídnout úplatek
-..únikový plán?
+⚀ psí oči
+⚁ svalit to na jiného
+⚂ schovat se
+⚃ úprk
+⚄ nabídnout úplatek
+⚅ …únikový plán?
 
 
-by Žroutík (2023)
+zpracoval Žroutík (2023)
 
 Volně na motivy  Křečík aneb cesta tam a zase zpátky
 
