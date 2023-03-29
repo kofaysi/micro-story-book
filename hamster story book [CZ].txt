@@ -108,10 +108,14 @@ Jaký máš únikový plán?
 
 zpracoval Žroutík (2023)
 
-Volně na motivy  Křečík aneb cesta tam a zase zpátky
+Volně na motivy
+Křečík aneb cesta tam a zase zpátky
 
 Source code:
 https://github.com/kofaysi/krecik-story-book
 
-Credits:
-inspirováno hříčkou  Trash Bandits https://tallywinkle.itch.io/trash-bandits
+Poděkování:
+micro-RPG hra
+Trash Bandits https://tallywinkle.itch.io/trash-bandits
+
+https://creator.nightcafe.studio/studio
