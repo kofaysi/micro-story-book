@@ -1,0 +1,116 @@
+Žužík ve třídě
+pro Emmu
+
+Vytvoř si svého Žužíka
+
+Vyber si barvu a popřemýšlej, jakým žužíkem jsi.
+
+
+Jaký máš zvláštní talent?
+
+⚀ šibalský smích
+⚁ schovávání se
+⚂ létání rychlostí blesku
+⚃ výroba papírových letadel
+⚄ třídní šašek
+⚅ kouzelnické triky
+
+
+Jaký je tvůj charakteristický vzhled?
+
+⚀ zvláštní rohatý hřebínek
+⚁ vlnící se plášť
+⚂ barevný šátek kolem krku
+⚃ sluneční brýle
+⚄ kravata / motýlek
+⚅ každá ponožka jiná
+
+
+Plánování zlobení
+
+Pod školní stůl plném zmuchlaných papírů prosvítá slabé světlo z chodby. Je čas naplánovat další žertík.
+
+
+Co bys nejraději vyvedl?
+
+⚀ házel papírová letadla
+⚁ udělal zmatek mezi sešity
+⚂ přemístil učitelův stůl
+⚃ vyměnil tuhy v barevných propiskách
+⚄ schoval zapomenuté věci
+⚅ něco se už najde – mám velkou chuť zlobit
+
+
+Kde budeš zlobit?
+
+⚀ ve třídě
+⚁ na školní chodbě
+⚂ v šatně
+⚃ v jídelně
+⚄ na školním dvoře
+⚅ v knihovně
+
+
+Kdy začneš?
+
+⚀ před začátkem vyučování
+⚁ během přestávky
+⚂ když učitel opustí místnost
+⚃ po škole
+⚄ o velké přestavce
+⚅ až se nikdo nebude dívat
+
+
+Jak se přemisťuješ?
+
+⚀ papírovým letadlem
+⚁ létajícím kapesníkem
+⚂ motorovou propiskou
+⚃ boty s pružinkami
+⚄ na origami draku
+⚅ nic, mám přeci neviditelný plášť
+
+
+Ve víru dění
+
+Náhlý střih do středu akce. Lumpačení a zlobení je v plném proudu. Probíhá vše dle plánu?
+
+
+Na co jsi zapomněl?
+
+⚀ svačinu
+⚁ co jsem chtěl vyvést
+⚂ už zazvonilo na výuku
+⚃ zamést stopy
+⚄ oblíbené plyšové zvířátko
+⚅ jak se jmenuji
+
+
+Slavíš úspěch?
+
+⚀ bezpochyby
+⚁ s největší pravděpodobností
+⚂ znamení ukazují, že ano
+⚃ vyhlídky nejsou dobré
+⚄ pochybuji
+⚅ nepočítej s tím
+
+
+Jaký máš únikový plán?
+
+⚀ psí oči
+⚁ svalit to na jiného
+⚂ schovat se
+⚃ úprk
+⚄ nabídnout úplatek
+⚅ …únikový plán?
+
+
+Volně na motivy ztraceného díla
+Žužík aneb cesta tam a zase zpátky
+
+Source code:
+https://github.com/kofaysi/krecik-story-book
+
+Credits:
+inspirováno hříčkou  Trash Bandits https://tallywinkle.itch.io/trash-bandits
