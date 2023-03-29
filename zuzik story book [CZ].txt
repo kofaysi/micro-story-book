@@ -1,9 +1,9 @@
 Žužík ve třídě
 pro Emmu
 
-Vytvoř si svého Žužíka
+Vytvoř si svého žužíka
 
-Vyber si barvu a popřemýšlej, jakým žužíkem jsi.
+Vyber si barvu a popřemýšlej, jakým řádilem jsi.
 
 
 Jaký máš zvláštní talent?
@@ -26,9 +26,9 @@ Jaký je tvůj charakteristický vzhled?
 ⚅ každá ponožka jiná
 
 
-Plánování zlobení
+Plánování akce
 
-Pod školní stůl plném zmuchlaných papírů prosvítá slabé světlo z chodby. Je čas naplánovat další žertík.
+Do rohu vedle posledního školního stolu prosvítá slabé světlo z chodby. Je čas naplánovat další řádění.
 
 
 Co bys nejraději vyvedl?
@@ -113,4 +113,4 @@ Source code:
 https://github.com/kofaysi/krecik-story-book
 
 Credits:
-inspirováno hříčkou  Trash Bandits https://tallywinkle.itch.io/trash-bandits
+inspirováno hříčkou Trash Bandits https://tallywinkle.itch.io/trash-bandits
