@@ -10,7 +10,7 @@ Dalším pravidlům se meze nekladou. Pokud hraje více vyprávěčů, dohodnět
 * Hráč musí vytvořit alespoň jednu správnou větu na nový podnět.
 * Hráč musí vytvořit přesně tři souvislé věty na nový podnět.
 * Hráč musí použít při vyprávění nový a předchozí podnět.
-* Hráči nejdřív pro nový podnět větu nebo věty napíšou,pak je postupně přečtou. Každý vytváří svůj jedinečný příběh. 
+* Hráči nejdřív pro nový podnět větu nebo věty napíšou, pak je postupně přečtou. Každý vytváří svůj jedinečný příběh. 
 
 Budete potřebovat:
 
