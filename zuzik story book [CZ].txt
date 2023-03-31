@@ -9,10 +9,10 @@ Vyber si barvu a popřemýšlej, jakým řádilem jsi.
 Jaký máš zvláštní talent?
 
 ⚀ šibalský smích
-⚁ schovávání se
-⚂ létání rychlostí blesku
-⚃ výroba papírových letadel
-⚄ třídní šašek
+⚁ kreslení
+⚂ běžet rychlostí blesku
+⚃ nevím
+⚄ velký vtpálek
 ⚅ kouzelnické triky
 
 
@@ -20,10 +20,10 @@ Jaký je tvůj charakteristický vzhled?
 
 ⚀ zvláštní rohatý hřebínek
 ⚁ vlnící se plášť
-⚂ barevný šátek kolem krku
+⚂ červený šátek kolem krku
 ⚃ sluneční brýle
 ⚄ kravata / motýlek
-⚅ každá ponožka jiná
+⚅ smradlavé ponožky
 
 
 Plánování akce
@@ -31,17 +31,17 @@ Plánování akce
 Do rohu vedle posledního školního stolu prosvítá slabé světlo z chodby. Je čas naplánovat další řádění.
 
 
-Co bys nejraději vyvedl?
+Co bys nejraději vyjedl?
 
-⚀ házel papírová letadla
-⚁ udělal zmatek mezi sešity
-⚂ přemístil učitelův stůl
-⚃ vyměnil tuhy v barevných propiskách
-⚄ schoval zapomenuté věci
-⚅ něco se už najde – mám velkou chuť zlobit
+⚀ ledničku
+⚁ komoru
+⚂ sklep
+⚃ svačinu všech
+⚄ celou jídelnu
+⚅ něco se už najde – mám velkou chuť jíst!!!
 
 
-Kde budeš zlobit?
+Kde budeš jíst?
 
 ⚀ ve třídě
 ⚁ na školní chodbě
@@ -79,7 +79,7 @@ Náhlý střih do středu akce. Lumpačení a zlobení je v plném proudu. Prob�
 Na co jsi zapomněl?
 
 ⚀ svačinu
-⚁ co jsem chtěl vyvést
+⚁ co jsem chtěl vyjíst
 ⚂ už zazvonilo na výuku
 ⚃ zamést stopy
 ⚄ oblíbené plyšové zvířátko
